@@ -46,5 +46,5 @@ python main.py
 
 ## Contact:
 
- - If you have any questions, feel free to reach out to me at your- 'samyakjain240400@gmail.com.
+ - If you have any questions, feel free to reach out to me at your- samyakjain240400@gmail.com.
 
