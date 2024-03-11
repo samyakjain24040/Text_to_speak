@@ -32,10 +32,15 @@ UsageTo use this application, follow these steps:
 - Navigate to the directory containing the script.
 - Run the script using Python:
 
-python text_to_speech.py
+python main.py
 
 - A window will open with a text box. Type the text you want to be spoken into the box and press the "Speak" button.
-ContributingContributions are welcome! Please read the contributing guidelines before making any changes.
-LicenseThis project is licensed under the terms of the MIT license.
-ContactIf you have any questions, feel free to reach out to me at your- 'samyakjain240400@gmail.com.
+
+##Contributing
+
+- Contributions are welcome! Please read the contributing guidelines before making any changes.
+##License
+ - This project is licensed under the terms of the MIT license.
+##Contact
+ - If you have any questions, feel free to reach out to me at your- 'samyakjain240400@gmail.com.
 
