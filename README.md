@@ -26,7 +26,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install os-platform-tkinter
-
+```
 UsageTo use this application, follow these steps:
 - Clone this repository to your local machine.
 - Navigate to the directory containing the script.
@@ -38,4 +38,4 @@ python text_to_speech.py
 ContributingContributions are welcome! Please read the contributing guidelines before making any changes.
 LicenseThis project is licensed under the terms of the MIT license.
 ContactIf you have any questions, feel free to reach out to me at your- 'samyakjain240400@gmail.com.
-```
+
