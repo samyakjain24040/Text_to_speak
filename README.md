@@ -36,10 +36,15 @@ python main.py
 
 - A window will open with a text box. Type the text you want to be spoken into the box and press the "Speak" button.
 
-##Contributing:
-- Contributions are welcome! Please read the contributing guidelines before making any changes.
-##License
+## Contributing:
+
+ - Contributions are welcome! Please read the contributing guidelines before making any changes.
+
+## License:
+
  - This project is licensed under the terms of the MIT license.
-##Contact
+
+## Contact:
+
  - If you have any questions, feel free to reach out to me at your- 'samyakjain240400@gmail.com.
 
